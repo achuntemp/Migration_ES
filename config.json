@@ -1,0 +1,10 @@
+{
+  "elastic_search": {
+    "hosts": ["http://localhost:9200"],
+    "port": 9200
+  },
+  "mongo_db": {
+    "uri": "mongodb://localhost:27017",
+    "database": "shakespeare1"
+  }
+}
